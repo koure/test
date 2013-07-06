@@ -151,3 +151,6 @@ HCURSOR CtestDlg::OnQueryDragIcon()
 	return static_cast<HCURSOR>(m_hIcon);
 }
 
+
+
+//14.23Ìí¼ÓµÄ²âÊÔ´úÂë
